@@ -1,0 +1,17 @@
+body {
+  background-color: cadetblue;
+  display: flex;
+  justify-content: center;
+}
+#start-game-btn {
+  margin-top: 200px;
+  border: none;
+  padding: 25px 50px;
+  border-radius: 20px;
+  font-size: 22px;
+  background-color: rgb(245, 129, 109);
+  color: white;
+}
+#start-game-btn:hover {
+  cursor: pointer;
+}
